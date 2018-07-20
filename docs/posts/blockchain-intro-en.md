@@ -1,5 +1,15 @@
 # Introduction to Blockchain
 
+## Vitalik founder of Ethereum explaining blockchain
+Vitalik was asked to explain blockchain to a smart 40 aged man:
+Sure. One of the analogies I keep going back to is this idea of a “world computer.” The idea, basically, is that a blockchain, as a whole, functions like a computer. It has a hard drive, and on that hard drive, it stores what all the accounts are.
+
+It stores what the code of all the smart contracts is, what the memory of all these smart contracts is. It accepts incoming instructions — and these incoming instructions are signed transactions sent by a bunch of different users — and processes them according to a set of rules.
+
+On a blockchain, you can ultimately build anything that you can build on top of a computer. From a computer science theoretical point of view, in terms of what it provides, you can think about it as being a computer.
+
+But what it provides on top of that is these extra trust guarantees: the guarantee that the computer will run in the way that you expect it to run, and that a few people can’t make that guarantee fail by going out of business, getting hacked, dying, having their company go bankrupt, deciding to be evil one day, deciding they have some monopolistic interest to start acting differently one day, and all of those different issues.
+
 ## Intro
 To make blockchain technology more understandable it is smart to start with the primary use case of the technology, the next web. Currently on the internet is it possible to share information. To exchange value we need to use services of third parties like creditcards, paypal or iDeal. Blockchain is big change in this approach. It makes it possible to exchange value without a central party. The first application that uses blockchain technology is the bitcoin network.
 
