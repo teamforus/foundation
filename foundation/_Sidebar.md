@@ -1,6 +1,6 @@
 **Objectives and Policies**
 - [Home](https://github.com/teamforus/foundation-direction/wiki)
- - [Values](https://github.com/teamforus/foundation-direction/wiki/Values)
+ - [Values](Values.md)
  - [Vision](https://github.com/teamforus/foundation-direction/wiki/Vision)
  - [Mission](https://github.com/teamforus/foundation-direction/wiki/Mission)
  - [Objectives](https://github.com/teamforus/foundation-direction/wiki/Objectives) 

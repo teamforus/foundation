@@ -4,6 +4,44 @@ Foundation Forus was founded on 1 April 2017. The Forus Foundation has the ambit
 * Foundation Forus is based in the Netherlands, mission "decentralised applications for the public domain" non-profit.
 * Here we can share our statutes, yearly results, presentations and other media
 
+## Index 
+
+- [Home](README.md)
+ - [Values](Values.md)
+ - [Vision](Vision.md)
+ - [Mission](Mission.md)
+ - [Objectives](Objectives.md) 
+ - [Strategy](Strategy.md)
+   - [Risk management](Risk-management.md)
+   - [Per team](.md)
+ - [Roadmap](.md)
+   - [Organisational](.md)
+   - [Technical](.md)
+ - [Action Plans](.md)
+- [Policies](.md)
+  - [The establishment of the VMOSA](.md)
+  - [Division of responsibilities](Division-of-responsibilities.md)
+  - [Improving policies](wiki/Improving-policies.md)
+  - [Foundational statutes](/Statuten.md)
+  - [Wikis](.md)
+  - [Issues](.md)
+  - [The Boards](.md)
+    - [Board of direction](.md)
+      - [Directieoverleg](Directieoverleg.md)
+    - [Board of supervision](.md)
+  - [Finance and Control](Finance.md)
+    - [Incoming Offertes](Incoming-offertes.md)
+  - [HR](.md)
+  - [Development](.md)
+  - [Implementation](.md)
+  - [Collaboration](.md)
+    - [Suppliers](.md)
+    - [Customers](.md)
+    - [Partners](.md)
+  - [Support](Support.md)
+  - [Communication](.md)
+  - [Community](Community.md)
+
 
 
 # organsation
