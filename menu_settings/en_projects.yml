@@ -2,7 +2,7 @@
   name: Forus
   icon: cog
   description: Platform for the conditional exchange of value. 
-  path: en/forus
+  path: /en/forus
   pages:
     Why Forus: /#why-we-are-making-forus
     What is Forus: /#what-is-forus
@@ -14,7 +14,7 @@
   name: Me
   icon: cog
   description: an app for managing identity, assets and records
-  path: en/me
+  path: /en/me
   pages:
     Why Me: /#why-build-me
     What Me will do: /#what-me-will-do
@@ -45,7 +45,7 @@
   name: Foundation
   icon: support
   description: The Forus Foundation has the ambition to develop decentalized applications for the public domain.
-  path: en/foundation/
+  path: /en/foundation/
   pages:
     Vision: vision/
 
@@ -53,7 +53,7 @@
   name: Knowledge base
   icon: github
   description: Questions & Answers
-  path: en/knowledge-base/
+  path: /en/knowledge-base/
   pages:
     Contribution manual: contributing/contribution-manual
 
