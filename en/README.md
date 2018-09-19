@@ -1,7 +1,7 @@
 ---
 
 layout: home
-permalink: /en
+permalink: /en/
 
 redirect_from:
 

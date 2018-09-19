@@ -1,7 +1,7 @@
 ---
 
 layout: home
-permalink: /nl
+permalink: /nl/
 redirect_from:
 
   - /index.html
