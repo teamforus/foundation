@@ -1,9 +1,9 @@
 ---
 name: Change request template
 about: Template for requesting a change
-title: Change request
+title: Change request: 
 labels: 'Priority: Low'
-assignees: 'maxvisser'
+assignees: 'jamalv'
 
 ---
 
