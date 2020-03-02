@@ -1,7 +1,7 @@
 ---
 name: Change request template
 about: Template for requesting a change
-title: Change request: 
+title: Change request: [title]
 labels: 'Priority: Low'
 assignees: 'jamalv'
 
