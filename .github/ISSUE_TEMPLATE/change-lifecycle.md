@@ -42,6 +42,10 @@ Given << some context >>
 When << some action is carried out>>
 Then << a set of observable outcomes should occur >>
 
+Make decision
+- [ ] Go
+- [ ] No Go
+
 ## Phase 2: Analysis
 
 ### Research feasibility
@@ -61,24 +65,45 @@ This change would impact:
 - [ ] Finances
 - [ ] Processes
 
-## Phase 3: Optional: Wireframe 
-<< brainstorm session results in a photo of a whiteboard, picture of a drawing on paper >>
+Make decision
+- [ ] Go
+- [ ] No Go
 
-<< R ask C for feedback or to join brainstorm session; R asks A to approve wireframe; R informs I of wireframe if done; >>
+## Phase 3: Optional: Wireframe 
+- [ ] plan a brainstorm session
+   - [ ] results in a photo of a whiteboard, picture of a drawing on paper
+
+- [ ] R has ask C for feedback or to join brainstorm session
+- [ ] R asks A to approve wireframe
+- [ ] R informs I of wireframe if done
+
+Make decision
+- [ ] Go
+- [ ] No Go
 
 ## Phase 4: Mockup / Template
-<< create a fast mockup template with current library >>
-<< design new elements if needed >>
-<< ask designer to look at new template >>
+- [ ] create a fast mockup template with current library
+  - [ ] design new elements if needed for template
+- [ ] make a pr, ask designer to look at pr, the new template
 
-<< R ask C for feedback; R asks A to approve template; R informs I of wireframe if done; >>
+- [ ] R ask C for feedback
+- [ ] R asks A to approve template
+- [ ] R informs I of wireframe if done
+
+Make decision
+- [ ] Go
+- [ ] No Go
 
 ## Phase 5: Prototype
-<< Use templates to create a prototype (definition: high fidelity representation of the final product which is meant to simulate user interaction) in figma >>
+- [ ] Use templates to create a prototype in figma
 
-<< R ask C for feedback on prototype; R asks A to approve wireframe; R informs I of wireframe if done; >>
+- [ ] R ask C for feedback on prototype
+- [ ] R asks A to approve prototype
+- [ ] R informs I of prototype if done
 
-
+Make decision
+- [ ] Go
+- [ ] No Go
 
 ## Phase 6: Development
 Goal: Convert the prototype into code and add changes into the design library.
