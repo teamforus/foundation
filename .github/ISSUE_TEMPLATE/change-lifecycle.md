@@ -29,6 +29,24 @@ Phase 5: Staging
 Phase 6: Testing
 Phase 7: Release
 
+## Who does what? (RACI)
+R = Responsible 
+Those who do the work to complete the task
+
+A = Accountable (Also Approver)
+The one ultimately answerable for the correct and thorough completion of the deliverable or task, the one who ensures the prerequisites of the task are met and who delegates the work to those responsible. (can only be one person)
+
+C = Consulted
+Those whose opinions are sought, typically subject matter experts; and with whom there is two-way communication
+
+I = Informed
+Those who are kept up-to-date on progress, often only on completion of the task or deliverable; and with whom there is just one-way communication.
+
+R: @username
+A: @username
+C: @username
+I: @username
+
 ## Phase 1: Improvement Proposal
 
 ### User Story
