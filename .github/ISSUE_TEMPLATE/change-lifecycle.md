@@ -21,13 +21,13 @@ Requested by: @requester
 ## Change livecycle.
 Every change goes trough this lifecycle to ensure the highest quality result.
 
-Phase 1: Analysis
-Phase 2: Proposal
-Phase 3: Prototyping
-Phase 4: Development
-Phase 5: Staging
-Phase 6: Testing
-Phase 7: Release
+Phase 1: Analysis  
+Phase 2: Proposal  
+Phase 3: Prototyping  
+Phase 4: Development  
+Phase 5: Staging  
+Phase 6: Testing  
+Phase 7: Release  
 
 ## Who does what? (RACI)
 R = Responsible 
