@@ -1,9 +1,10 @@
 ---
 name: Change request - template
 about: Template for keeping track of a change
-title: 'CR'
+title: CR
 labels: 'Status: Not Planned'
-assignees: 'jamalv'
+assignees: jamalv
+
 ---
 
 ## Change
