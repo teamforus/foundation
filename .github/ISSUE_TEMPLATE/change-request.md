@@ -2,7 +2,7 @@
 name: Change request
 about: Template for requesting a change
 title: 'CR:'
-labels: 'Status: Not Planned, Approval: Pending'
+labels: 'Approval: Pending, Status: Not Planned'
 assignees: jamalv
 
 ---
