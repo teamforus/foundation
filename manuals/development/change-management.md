@@ -87,8 +87,7 @@ Question: is it desirable to do examination about this request?
 
 **Go**
 
-
-    It fixes current problems with the platform; a feature which enhances the current scope. it does not open a new area of expertise.
+It fixes current problems with the platform; a feature which enhances the current scope. it does not open a new area of expertise.
 
 **No go**
 
