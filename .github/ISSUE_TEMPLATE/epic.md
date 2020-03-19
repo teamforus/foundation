@@ -8,7 +8,7 @@ assignees: ''
 
 ---
 
-### User Story (copy if needed)
+### User Story
 As a << type of user: sponsor, provider, requester or validator >>
 I want to << perform some task >>
 So that I can << achieve some goal >>
