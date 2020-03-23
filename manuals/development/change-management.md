@@ -8,12 +8,12 @@ Forus and Me are complex products with a growing user base. Making improvements 
 
 Most changes start with an issue. There are a few different kinds of issues. Each type has a certain level of clearity that is needed to continue to the next stage. If you're not sure what kind of issue to open, you can always open a change request.
 
-**Change Request (CR):** 
+### Change Request (CR)
 Question or proposal to change something (for example a user story).
 
 [Learn more about change requests >]()
 
-**Improvement Proposal (IP)**:
+### Improvement Proposal (IP)
 Concrete proposal to make an improvement.
 
 Might include:
@@ -26,10 +26,11 @@ Might include:
 
 [Learn more about improvement proposals >]()
 
-**Epic**
+### Epic
 A collection of tasks and a figma prototype if visual changes are needed.
+[Learn more about epics >]()
 
-**Task:** 
+### Task
 A clear an concrete task description that can be directly be solved without further questions.
 
 [Learn more about tasks >]()
