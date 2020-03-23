@@ -1,5 +1,5 @@
 # General
 
-Welcome to the general repository of Forus. This readme is where you get started.
+Welcome to the general repository of Forus.
 
-* [Development](https://github.com/teamforus/general/tree/develop/manuals/development)
+* [Development manual](https://github.com/teamforus/general/tree/develop/manuals/development)
