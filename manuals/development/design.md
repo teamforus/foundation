@@ -10,6 +10,20 @@ Figma can be used in any modern browser. If you're a power-user it is recomended
 
 Figma has great [documentation and tutorials](https://help.figma.com/hc/en-us) available for free.
 
+## File locations
+If you are part of the Forus team, you will have acces to these projects. If you are not part of the team, understanding these projects will still help you understand how our workflow is structured.
+
+Project | Purpose
+-- | --
+Inbox | There are no rules here, anything can live in the inbox.
+Prototypes | The files here are an experiment, they could either go to the final product or move to the archive.
+Pull requests | When a prototype is approved for development, it will move to the pull requests project. Here it will be merged into the library while development is ongoing.
+Libraries | The library is organized based on the principles of atomic design. The library contains templates for the pages that are used in production. 
+Deployments | Here the templates are combined into a prototype that closely resembles the product currently in production. The deployements can be used for collecting feedback, taking screenshots, making training materials etc.
+Archive | Here files are moved that are not planned tot be worked on in the near term.
+
+
+
 ## Essential Files
 
 ### [Library](https://www.figma.com/file/lmtX6abfCnGR9Ohep4TeI6/Library?node-id=15%3A0)
