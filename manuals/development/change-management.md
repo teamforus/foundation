@@ -37,7 +37,7 @@ A clear an concrete task description that can be directly be solved without furt
 
 ## Where to open the issue.
 
-If you're not sure where to open an issue, you can generally open it in "**general**" (no pun intended). 
+If you're not sure where to open an issue, you can _generally_ open it in "**general**" (no pun intended). 
 
 There are a few scenario's where an issue should be opened somewhere else:
 
