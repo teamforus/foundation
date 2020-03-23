@@ -3,23 +3,17 @@ An improvement goes through the following phases:
 
 Phase 1: Define
 
-
-
 1. Intake
 2. Examine
 3. Plan
 
 Phase 2: Design
 
-
-
 1. Functional design
 2. Prototype
 3. Accept design
 
-Phase 3: Realization
-
-
+Phase 3: Deploy
 
 1. Develop
 2. Review and test
@@ -33,10 +27,7 @@ Phase 3: Realization
 
 #### Process:
 
-
-
-*   Issue is opened in General repo from issue template 1
-*   When the issue is opened, the opener fills template
+*   Change request is opened in General repo
 *   Issue is created and automatically labeled, with initial labels; Phase 1 - Intake; Status - Not planned; 
 *   Product owner or scrum master will start analyzation
 *   Product owner, scrum master will label issue with result of analyzation
@@ -56,8 +47,6 @@ Phase 3: Realization
 _Scope_
 
 Person responsible for doing intake will analyze the scope based on these points:
-
-
 
 *    Design
 *    Code
@@ -92,19 +81,15 @@ Too big too chew on, completely out of scope, no time/budget to do research
 
 ### Step 2: Examine
 
-**Goal:** In this step, the request will be examined. The start on a proposal is made on how to solve the problem. This proposal will be used to get a go / no go from the essential stakeholders.
+**Goal:** In this step, the request will be further examined. The start on a proposal is made on how to solve the problem. This proposal will be used to get a go / no go from the essential stakeholders.
 
 Check problem statement of change request:
-
-
 
 1. It should focus on only one problem. 
 2. It should be one or two sentences long. 
 3. You should be able to apply the 5 'W's (Who, What, Where, When and Why) to the problem statement. 
 
 Pro contains:
-
-
 
 *   What needs to be done
 *   How it needs to be done
@@ -125,11 +110,9 @@ Go / no go by: business -
 
 ### Step 3: Plan
 
-**Goal:** In this phase the epic will be planned, required budget will be set, make a communication plan.
+**Goal:** In this phase the proposal will be planned, required budget will be set, make a communication plan.
 
 **Tasks:**
-
-
 
 - Plan in sprint milestone (example 2020Q1S1)
 - Plan
@@ -151,18 +134,17 @@ Go / no go by: requester -
 Go / no go by: business - 
 
 
-## Phase 2: Design 
+## Phase 2: Design
+
+Deliverable of phase 2: An epic that includes a figma prototype and tasks for the team.
 
 **Design process:**
-
-
 
 *   Design will do a inventory of improvement proposals
 *   Team will create design issues based on improvement proposal. 
 *   Team will assign these newly created issues to team members.
 *   Planning in time, setting a internal design team deadlines for specific issues
 *   Put in epic issue to easily show overall progress
-
 
 ### Step 1: Functional design:
 
@@ -173,8 +155,6 @@ Go / no go by: business -
 Epic issues created with template 3, epic’s will refer to improvement proposal
 
 **Tasks: **
-
-
 
 *   Plan a brainstorm session for discussing improvement proposal
 *   Create epic issues based on improvement proposal containing atleast:
