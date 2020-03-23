@@ -41,5 +41,5 @@ If you're not sure where to open an issue, you can _generally_ open it in "**gen
 
 There are a few scenario's where an issue should be opened somewhere else:
 
-- This is a critical issue that needs to be solved ASAP and / or this issue contains sensitive data: Open the issue in the ITSM repository if you can access it or send an email to itsm@forus.io
+- This is a critical issue that needs to be solved ASAP and / or this issue contains sensitive data: Your issue might be an incident. Open the issue in the ITSM repository if you can access it or send an email to itsm@forus.io
 - This is a clearly defined bug or task that is easy to fix: please open it directly in the product repository (Forus or Me)
