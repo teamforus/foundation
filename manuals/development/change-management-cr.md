@@ -1,12 +1,12 @@
 # Change request
 
-When there is a desire to change something about the products, processes or anything else, the first step is to open a change request. This makes it possible to:
+When there is a desire to change something about the products, processes or anything else, the first step is to open a change request in the [general repository](https://github.com/teamforus/general/issues). This makes it possible to:
 
 * Rate the change request on subjects like; **priority**, **difficulty** and **scope**
 * Have a discussion about the request
 * Keep track of the status of the change.
 
-The ultimate goal of a change request is to either be closed (it is not needed, feasible or desired), or to evolve into an improvement proposal.
+The ultimate goal of a change request is to either be closed (it is not needed, feasible or desired), or to evolve into an [improvement proposal](https://github.com/teamforus/general/blob/develop/manuals/development/change-management-ip.md).
 
 ## What makes a good change request?
 
