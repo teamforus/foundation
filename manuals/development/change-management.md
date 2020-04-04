@@ -22,12 +22,12 @@ There are a few scenario's where an issue should be opened somewhere else:
 ### Change Request (CR)
 Question or proposal to change something (for example a user story).
 
-[Learn more about change requests >]()
+[Learn more about change requests >](https://github.com/teamforus/general/blob/develop/manuals/development/change-management-cr.md)
 
 ### Improvement Proposal (IP)
 Concrete proposal to make an improvement.
 
-[Learn more about improvement proposals >]()
+[Learn more about improvement proposals >](https://github.com/teamforus/general/blob/develop/manuals/development/change-management-ip.md)
 
 ### Epic
 A collection of tasks and a figma prototype if visual changes are needed.
