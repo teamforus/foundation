@@ -35,7 +35,7 @@ A collection of tasks and a figma prototype if visual changes are needed.
 [Learn more about epics >]()
 
 ### Task
-A clear an concrete task description that can be directly be solved without further questions.
+A clear an concrete task description that can be directly be solved, ideally without further questions.
 
 [Learn more about tasks >]()
 
