@@ -2,7 +2,7 @@
 
 Forus and Me are complex products with a growing user base. Making improvements while maintaining and increasing quality is challenging. This manual serves to clearly define a process for making changes to products, services and processes.
 
-[Read the full change management discription here >](https://github.com/teamforus/general/blob/develop/manuals/development/change-management-full.md)
+[Read the maintainer manual here >](https://github.com/teamforus/general/blob/develop/manuals/development/change-management-full.md)
 
 ## Issues:
 
