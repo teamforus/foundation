@@ -26,7 +26,7 @@ To help with deciding the priority it helps to give some context about why this 
 Example: *We have been getting a lot of calls lately that would be solved by implementing this change*
 
 ### Suggestions
-A change request is not about proposing a solution, that would make it an improvement proposal. But, it could still be helpful to add some suggestions to the change request.
+A change request is not about proposing a solution, that would make it an [improvement proposal](https://github.com/teamforus/general/blob/develop/manuals/development/change-management-ip.md). But, it could still be helpful to add some suggestions to the change request.
 
 ## Turning a change request into an improvement proposal
 
