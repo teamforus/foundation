@@ -4,7 +4,7 @@ Forus develops multiple products. These are the manuals for development
 
 Topics:
 * [Change management](https://github.com/teamforus/general/blob/develop/manuals/development/change-management.md)
-* [Labeling]()
+* [Labeling](https://github.com/teamforus/general/blob/develop/manuals/development/labels.md)
 
 
 
