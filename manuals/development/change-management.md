@@ -6,11 +6,10 @@ Forus and Me are complex products with a growing user base. Making improvements 
 
 # Issues:
 
-Most changes start with an issue. There are a few different kinds of issues. Each type has a certain level of clearity that is needed to continue to the next stage. If you're not sure what kind of issue to open, you can always open a change request.
+Most changes start with an issue. There are a few different kinds of issues. Each type has a certain level of clearity that is needed to continue to the next stage. 
 
-## Where to open the issue.
-
-If you're not sure where to open an issue, you can _generally_ open it in "**general**" (no pun intended). 
+### Where to open the issue
+Most issues can be opened in the [general repository](https://github.com/teamforus/general/issues). If you're not sure what type of issue to open, you can always open a change request.
 
 There are a few scenario's where an issue should be opened somewhere else:
 
