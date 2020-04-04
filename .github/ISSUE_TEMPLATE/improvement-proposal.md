@@ -16,13 +16,13 @@ assignees: ''
 - [ ] Finances
 - [ ] Processes
 
-### Current situation
+## Current situation
 -
 
-### Desired situation
+## Desired situation
 -
 
-### Plan
+## Plan
 -
 
 ## Change request issue:
