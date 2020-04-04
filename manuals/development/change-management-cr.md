@@ -6,7 +6,7 @@ When there is a desire to change something about the products, processes or anyt
 * Have a discussion about the request
 * Keep track of the status of the change.
 
-The ultimate goal of a change request is to either be closed (it is not needed, feasible or desired), or to evolve into an [improvement proposal](https://github.com/teamforus/general/blob/develop/manuals/development/change-management-ip.md).
+The goal of a change request is to either be closed (it is not needed, feasible or desired), or to evolve into an [improvement proposal](https://github.com/teamforus/general/blob/develop/manuals/development/change-management-ip.md).
 
 ## What makes a good change request?
 
