@@ -30,7 +30,8 @@ Concrete proposal to make an improvement.
 [Learn more about improvement proposals >]()
 
 ### Epic
-A collection of user stories, tasks and a figma prototype if visual changes are needed.
+A collection of tasks and a figma prototype if visual changes are needed.
+
 [Learn more about epics >]()
 
 ### Task
