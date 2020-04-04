@@ -26,14 +26,6 @@ Question or proposal to change something (for example a user story).
 ### Improvement Proposal (IP)
 Concrete proposal to make an improvement.
 
-Might include:
-- Current situation
-- Problem statement
-- Proposed solution
-- Considered alternatives and reasoning
-- Planning in time
-- Planning with team
-
 [Learn more about improvement proposals >]()
 
 ### Epic
