@@ -7,17 +7,23 @@ assignees: ''
 
 ---
 
-## Current situation
-How does it currently work.
+## Impacted areas:
 
-## Problem statement:
-Describe the problem it should focus on only one problem. It should be one or two sentences long. You should be able to apply the 5 'W's (Who, What, Where, When and Why) to the problem statement. 
+- [ ] Design
+- [ ] Code
+- [ ] Infrastructure
+- [ ] Users
+- [ ] Finances
+- [ ] Processes
 
-### Describe the solution
-Describe what needs to be done, How it needs to be done, Why it will work, Why it is feasible and reasonable as a solution, Why it is cost-effective
+### Current situation
+-
 
-### Describe alternatives you've considered
-A clear and concise description of any alternative solutions or features you've considered. Why the described solution is better than the other solutions
+### Desired situation
+-
+
+### Plan
+-
 
 ## Change request issue:
 https://github.com/teamforus/general/1 (if applicable)
