@@ -1,10 +1,10 @@
-## Purpose of this manual.
+# Purpose of this manual.
 
 Forus and Me are complex products with a growing user base. Making improvements while maintaining and increasing quality is challenging. This manual serves to clearly define a process for making changes to products, services and processes.
 
 [Read the maintainer manual here >](https://github.com/teamforus/general/blob/develop/manuals/development/change-management-full.md)
 
-## Issues:
+# Issues:
 
 Most changes start with an issue. There are a few different kinds of issues. Each type has a certain level of clearity that is needed to continue to the next stage. If you're not sure what kind of issue to open, you can always open a change request.
 
@@ -17,6 +17,7 @@ There are a few scenario's where an issue should be opened somewhere else:
 - This is a critical issue that needs to be solved ASAP and / or this issue contains sensitive data: Your issue might be an incident. Open the issue in the ITSM repository if you can access it or send an email to support@forus.io
 - This is a clearly defined bug or task that is easy to fix: please open it directly in the product repository ([Forus](https://github.com/teamforus/forus/issues) or [Me](https://github.com/teamforus/me/issues))
 
+## Types of issues
 
 ### Change Request (CR)
 Question or proposal to change something (for example a user story).
