@@ -27,7 +27,7 @@ Concrete proposal to make an improvement.
 [Learn more about improvement proposals >](https://github.com/teamforus/general/blob/develop/manuals/development/issue-improvement-proposal.md)
 
 ### Epic
-A collection of tasks and a figma prototype if visual changes are needed.
+A collection of tasks.
 
 [Learn more about epics >]()
 
