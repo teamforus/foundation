@@ -2,7 +2,7 @@
 
 When there is a desire to change something about the products, processes or anything else, the first step is to open a change request in the [general repository](https://github.com/teamforus/general/issues). This makes it possible to:
 
-* Rate the change request on subjects like; **priority**, **difficulty** and **scope**
+* Rate the change request on subjects like; **priority**, **difficulty** and **scope** by adding [labels](https://github.com/teamforus/general/blob/develop/manuals/development/labels.md)
 * Have a discussion about the request
 * Keep track of the status of the change.
 
