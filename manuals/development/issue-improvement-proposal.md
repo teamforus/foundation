@@ -45,4 +45,4 @@ The goal of a improvement proposal is to come up with a clear plan.
 When this succeeds and the improvement proposal is accepted for implementation, it is time to create an epic. 
 
 ### How to turn an improvement proposal into an epic.
-We use zenhub for creating epics. The epic should be created in the general repository, while the tasks should be created in the Forus and Me repositories.
+The epic should be created in the general repository, while the tasks should be created in the Forus and Me repositories. The links to the tasks should be added to the epic.
