@@ -29,11 +29,11 @@ Concrete proposal to make an improvement.
 ### Epic
 A collection of tasks.
 
-[Learn more about epics >]()
+[Learn more about epics >](https://github.com/teamforus/general/blob/develop/manuals/development/issue-epic.md)
 
 ### Task
 A clear an concrete task description that can be directly be solved, ideally without further questions.
 
-[Learn more about tasks >]()
+[Learn more about tasks >](https://github.com/teamforus/general/blob/develop/manuals/development/issue-task.md)
 
 
