@@ -1,15 +1,13 @@
-# Purpose of this manual.
+# Manual: Issues
+
+## Purpose of this manual.
 
 Forus and Me are complex products with a growing user base. Making improvements while maintaining and increasing quality is challenging. This manual serves to clearly define a process for making changes to products, services and processes.
-
-[Read the maintainer manual here >](https://github.com/teamforus/general/blob/develop/manuals/development/change-management-full.md)
-
-# Issues:
 
 Most changes start with an issue. There are a few different kinds of issues. Each type has a certain level of clearity that is needed to continue to the next stage. 
 
 ### Where to open the issue
-Most issues can be opened in the [general repository](https://github.com/teamforus/general/issues). If you're not sure what type of issue to open, you can always open a change request.
+Most issues can be opened in the [general repository](https://github.com/teamforus/general/issues). If you're not sure what type of issue to open, you can always open a [change request](https://github.com/teamforus/general/blob/develop/manuals/development/issue-change-request.md).
 
 There are a few scenario's where an issue should be opened somewhere else:
 
@@ -21,12 +19,12 @@ There are a few scenario's where an issue should be opened somewhere else:
 ### Change Request (CR)
 Question or proposal to change something (for example a user story).
 
-[Learn more about change requests >](https://github.com/teamforus/general/blob/develop/manuals/development/change-management-cr.md)
+[Learn more about change requests >](https://github.com/teamforus/general/blob/develop/manuals/development/issue-change-request.md)
 
 ### Improvement Proposal (IP)
 Concrete proposal to make an improvement.
 
-[Learn more about improvement proposals >](https://github.com/teamforus/general/blob/develop/manuals/development/change-management-ip.md)
+[Learn more about improvement proposals >](https://github.com/teamforus/general/blob/develop/manuals/development/issue-improvement-proposal.md)
 
 ### Epic
 A collection of tasks and a figma prototype if visual changes are needed.
