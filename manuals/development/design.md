@@ -1,4 +1,4 @@
-# Design
+# Design: Figma
 This manual explains both how you can work on something new or do an experiment, and also how to get it into the final product.
 
 ## Figma
