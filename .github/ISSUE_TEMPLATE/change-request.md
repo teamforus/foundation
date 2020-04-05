@@ -7,7 +7,7 @@ assignees: maxvisser
 
 ---
 
-Learn more about change requests https://bit.ly/39CWeEE
+Learn more about change requests here: https://bit.ly/39CWeEE
 
 ### Requested by:
 -
