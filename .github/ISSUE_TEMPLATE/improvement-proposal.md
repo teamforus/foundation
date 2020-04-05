@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+Learn more about improvement proposals: https://bit.ly/2V2Gq8T
+
 ## Impacted areas:
 
 - [ ] Design
