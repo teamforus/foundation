@@ -7,6 +7,8 @@ assignees: jamalv
 
 ---
 
+**Tip:** read about change requests in the [change request manual](https://github.com/teamforus/general/blob/develop/manuals/development/issue-change-request.md)
+
 Requested by: @requester
 
 ### Change description
