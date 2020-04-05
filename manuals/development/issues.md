@@ -17,7 +17,7 @@ There are a few scenario's where an issue should be opened somewhere else:
 ## Types of issues
 
 ### Change Request (CR)
-Question or proposal to change something (for example a user story).
+Question or proposal to change something.
 
 [Learn more about change requests >](https://github.com/teamforus/general/blob/develop/manuals/development/issue-change-request.md)
 
