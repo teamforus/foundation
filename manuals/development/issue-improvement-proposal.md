@@ -37,3 +37,12 @@ Considerations:
 * Team capacity
 * Funding
 * Timeline
+
+## Turning an improvement proposal into an epic
+
+The goal of a improvement proposal is to come up with a clear plan. 
+
+When this succeeds and the improvement proposal is accepted for implementation, it is time to create an epic. 
+
+### How to turn an improvement proposal into an epic.
+We use zenhub for creating epics. 
