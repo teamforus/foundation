@@ -1,3 +1,5 @@
+Note: this document is under development, the main goal is to explain how to maintain the repositories and products; general, forus and me and how to help guide a change from a change request into the final products.
+
 An improvement goes through the following phases:
 ![Change request lifecycle](change-request-lifecycle.png)
 
