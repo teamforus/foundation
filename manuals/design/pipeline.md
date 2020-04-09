@@ -1,4 +1,4 @@
-# Design: Figma
+# Design: Pipeline
 This manual explains both how you can work on something new or do an experiment, and also how to get it into the final product.
 
 ## Figma
@@ -13,14 +13,17 @@ Figma has great [documentation and tutorials](https://help.figma.com/hc/en-us) a
 ## File locations
 If you are part of the Forus team, you will have acces to these projects. If you are not part of the team, understanding these projects will still help you understand how our workflow is structured.
 
-Project | Purpose
+Directory | Purpose
 -- | --
-Inbox | There are no rules here, anything can live in the inbox.
-Prototypes | The files here are an experiment, they could either go to the final product or move to the archive.
-Pull requests | When a prototype is approved for development, it will move to the pull requests project. Here it will be merged into the library while development is ongoing.
-Libraries | The library is organized based on the principles of atomic design. The library contains templates for the pages that are used in production. 
-Deployments | Here the templates are combined into a prototype that closely resembles the product currently in production. The deployements can be used for collecting feedback, taking screenshots, making training materials etc.
-Archive | Here files are moved that are not planned tot be worked on in the near term.
+Drafts | Your personal space. By default only you see what is in here. You can choose to share a file using the "share" menu.
+Inbox | Any (new) file can go here. If you're not sure where to put something, put it in the inbox.
+General | Most other directories are meant for our products. The general directory is meant for all other files.
+Proposals | Suggestions for improvements. Can be connected to an [improvement proposal](https://github.com/teamforus/general/blob/develop/manuals/development/issue-improvement-proposal.md) issue. 
+Prototypes | Accepted proposals. Needs design and content. Can be linked to an [epic](https://github.com/teamforus/general/blob/develop/manuals/development/issue-epic.md) issue.
+Pull requests | Final designs, handed off to developers. Should be merged into the library. Can be moved to the archive when merged into the library and deployments. Can be linked to one or more [task](https://github.com/teamforus/general/blob/develop/manuals/development/issue-task.md) issues 
+Libraries | Design sources. Does not contain data. The library is organized based on the principles of atomic design. The library contains templates for the pages that are used in the deployments. 
+Deployments | Here the templates are combined into a prototype that closely resembles the product currently in production and is filled with content. The deployements can be used for collecting feedback, taking screenshots, making training materials etc.
+Archive | Move any files here that are not actively worked on, but should not be deleted.
 
 
 
