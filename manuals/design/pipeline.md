@@ -11,7 +11,7 @@ Figma can be used in any modern browser. If you're a power-user it is recomended
 Figma has great [documentation and tutorials](https://help.figma.com/hc/en-us) available for free.
 
 ## File locations
-If you are part of the Forus team, you will have acces to these projects. If you are not part of the team, understanding these projects will still help you understand how our workflow is structured.
+If you are part of the Forus team, you will have acces to these projects. If you are not part of the team, understanding these projects will still help you understand how our workflow is structured. Watch the [figma structure video](https://youtu.be/XR7DBatobQM) and/or the table below:
 
 Directory | Purpose
 -- | --
@@ -38,11 +38,6 @@ Page | Description
 [Molecules](http://atomicdesign.bradfrost.com/chapter-2/#molecules) | Molecules are relatively simple groups of UI elements functioning together as a unit. For example, a form label, search input, and button can join together to create a search form molecule.
 [Organisms](http://atomicdesign.bradfrost.com/chapter-2/#organisms) | Relatively complex UI components composed of groups of molecules and/or atoms and/or other organisms. These organisms form distinct sections of an interface.
 [Templates](http://atomicdesign.bradfrost.com/chapter-2/#templates) | Templates are page-level objects that place components into a layout and articulate the design’s underlying content structure.
-
-### [Prototypes](https://www.figma.com/file/HL0xnMAHK9GtM9sWEK2rUM/Prototypes?node-id=14%3A647)
-This is where designs come alive. Templates are filled with content and linked together to create prototypes. This is a seperate file that does not cointain master components, they are in the library. In this file only instances of templates are used, they are filled with content using [google sheet sync]().
-
-The prototypes provide a good starting point for experimentation. You can copy the prototype, and detach instances that you would like to edit.
 
 ## Cloning a file
 All files live in Figma. This means files don't have to be emailed around, and that there is no folder clutter on many different computers/clouds with many different versions. 
