@@ -25,16 +25,11 @@ Libraries | Design sources. Does not contain data. The library is organized base
 Deployments | Here the templates are combined into a prototype that closely resembles the product currently in production and is filled with content. The deployements can be used for collecting feedback, taking screenshots, making training materials etc.
 Archive | Move any files here that are not actively worked on, but should not be deleted.
 
+## Core concepts
 
+Figma components: https://youtu.be/HJJFD9gxGbY
 
-## Essential Files
-
-### [Library](https://www.figma.com/file/lmtX6abfCnGR9Ohep4TeI6/Library?node-id=15%3A0)
-This is the heart of our design system. All the master components live in the library. The library is always leading. We  always aim to keep the codebase synchronized with the state of the library.
-
-Only a few people can write to the library. Therefore, if you want to make changes to the library, you should first [clone](https://github.com/teamforus/development/blob/master/briefings/how-to-design.md#cloning-a-file) it, make the changes and then open a [pull request](https://github.com/teamforus/development/blob/master/briefings/how-to-design.md#pull-requests).
-
-#### Pages
+#### Atomic design
 Our library is organised based on the principles of [atomic design](http://atomicdesign.bradfrost.com/chapter-2/). 
 
 Page | Description
@@ -49,20 +44,6 @@ This is where designs come alive. Templates are filled with content and linked t
 
 The prototypes provide a good starting point for experimentation. You can copy the prototype, and detach instances that you would like to edit.
 
-#### Pages
-This file has one example and pages for the master prototypes. If you want to do an experiment or have a seperate usecase, you should clone this file.
-
-Page | Description
----|---
-Example | The example shows what a prototype can look like. Copy the example to make your own prototype.
-Prototype/Me/iOS | Main prototype of the me app for iOS
-Prototype/Me/iOS/lab | Lab version of the me app for iOS
-Prototype/Me/Android | Main prototype of the me app for Android
-Prototype/Forus/Dashboard | Main prototype of the dashboard Forus
-Prototype/Forus/Webshop/Common | Main prototype of the common webshop
-Prototype/Forus/Webshop/Implementation/Potjeswijzer | Webshop implementation of the potjeswijzer webshop.
-Prototype/Forus/Webshop/Implementation/Westerkwartier | Webshop implementation of the westerkwartier webshop.
-
 ## Cloning a file
 All files live in Figma. This means files don't have to be emailed around, and that there is no folder clutter on many different computers/clouds with many different versions. 
 
@@ -71,14 +52,6 @@ There simply is one "single source of truth". The master file is in Figma and ca
 In figma, a file lives in an organisation project, or in your personal drafts. It is possible to clone a file from an organisation to your own drafts if the owner has enabled this.
 
 <img width="406" alt="Screenshot 2020-01-28 at 11 09 39" src="https://user-images.githubusercontent.com/30194799/73254537-e46a8800-41be-11ea-89e1-c8855f136ea0.png">
-
-### [Pull requests](https://www.figma.com/file/NsJsPJvWKqgoRtuTO6I8e5/Pull-Requests?node-id=3%3A112)
-The pull requests file is a read only example file. If you have made an update or addition the library, you can propose for this update to be added to the platform using this format. 
-
-* Copy this file to your drafts
-* Add your proposed change(s) to the file
-* Set the file to be public
-* Comment on the pull requests file with a link to your file.
 
 
 
