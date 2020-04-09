@@ -15,7 +15,7 @@ If you are part of the Forus team, you will have acces to these projects. If you
 
 Directory | Purpose
 -- | --
-Drafts | Your personal space. By default only you see what is in here. You can choose to share a file using the "share" menu.
+Drafts | Your personal space. Only you see what is in here. You can choose to share a file using the "share" menu.
 Inbox | Any (new) file can go here. If you're not sure where to put something, put it in the inbox.
 General | Most other directories are meant for our products. The general directory is meant for all other files.
 Proposals | Suggestions for improvements. Can be connected to an [improvement proposal](https://github.com/teamforus/general/blob/develop/manuals/development/issue-improvement-proposal.md) issue. 
