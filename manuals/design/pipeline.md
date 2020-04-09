@@ -27,10 +27,12 @@ Archive | Move any files here that are not actively worked on, but should not be
 
 ## Core concepts
 
-Figma components: https://youtu.be/HJJFD9gxGbY
 
-#### Atomic design
+
+## Library structure: Atomic design
 Our library is organised based on the principles of [atomic design](http://atomicdesign.bradfrost.com/chapter-2/). 
+
+Watch the [Figma components video](https://youtu.be/HJJFD9gxGbY) to understand how this works in Figma.
 
 Page | Description
 ---|---
