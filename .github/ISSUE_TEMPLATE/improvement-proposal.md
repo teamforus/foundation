@@ -1,7 +1,6 @@
 ---
 name: Improvement proposal
 about: Improvement proposal template - Problem statement and a solution
-title: 'IP:'
 labels: 'Approval: Pending, Status: Not Planned, Type: Improvement Proposal'
 assignees: ''
 
