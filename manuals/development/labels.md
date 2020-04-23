@@ -38,6 +38,14 @@ Status: Needs review | Color: # | Should be reviewed
 Status: No go | Color: # | Can not move on to next phase
 Status: Go | Color: # | Can move on to next phase
 
+## Approval
+label | color |  description
+-- | -- | --
+Approval: Not requested | Color: #| Does not need to be approved at this time
+Approval: Requested | Color: #| Should be reviewed for approval
+Approval: Not granted | Color: #| Can not (yet) move on to the next phase
+Approval: Granted | Color: #| Can move on to next phase
+
 ## Phase (Change Requests)
 label | color |  description
 -- | -- | --
