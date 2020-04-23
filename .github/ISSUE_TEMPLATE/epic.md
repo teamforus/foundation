@@ -2,7 +2,7 @@
 name: Epic
 about: Epic template - contains user stories, acceptance criteria and a high fidelity
   prototype
-labels: 'Approval: Pending, Phase 2: Design, Status: Not Planned, Type: Epic'
+labels: 'Approval: Not requested, Phase 2: Design, Status: Not Planned, Type: Epic'
 assignees: ''
 
 ---
