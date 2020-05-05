@@ -25,6 +25,3 @@ Learn more about improvement proposals: https://bit.ly/2xLJT3R
 
 ## Plan
 -
-
-## Change request issue:
-https://github.com/teamforus/general/1 (if applicable)
