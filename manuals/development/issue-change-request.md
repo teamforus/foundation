@@ -53,3 +53,5 @@ If the change request has become very big, it might be better to:
 * Add a link to the change request to the new improvement proposal
 * Close the change request, and comment "this change request has been turned into an improvement proposal: [add link]()"
 
+# [Start you making your change request](https://github.com/teamforus/general/issues/new?assignees=maxvisser&labels=Approval%3A+Not+requested%2C+Status%3A+Not+Planned%2C+Type%3A+Change+request&template=change-request.md)
+
