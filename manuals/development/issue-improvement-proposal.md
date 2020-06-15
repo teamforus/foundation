@@ -38,11 +38,11 @@ Considerations:
 * Funding
 * Timeline
 
-## Turning an improvement proposal into an epic
+## Turning an improvement proposal into an [epic](https://github.com/teamforus/general/blob/develop/manuals/development/issue-epic.md)
 
 The goal of a improvement proposal is to come up with a clear plan. 
 
-When this succeeds and the improvement proposal is accepted for implementation, it is time to create an epic. 
+When this succeeds and the improvement proposal is accepted for implementation, it is time to create an [epic](https://github.com/teamforus/general/blob/develop/manuals/development/issue-epic.md). 
 
-### How to turn an improvement proposal into an epic.
-The epic should be created in the general repository, while the tasks should be created in the Forus and Me repositories. The links to the tasks should be added to the epic.
+### How to turn an improvement proposal into an [epic](https://github.com/teamforus/general/blob/develop/manuals/development/issue-epic.md).
+The [epic](https://github.com/teamforus/general/blob/develop/manuals/development/issue-epic.md) should be created in the general repository, while the tasks should be created in the Forus and Me repositories. The links to the tasks should be added to the [epic](https://github.com/teamforus/general/blob/develop/manuals/development/issue-epic.md).
