@@ -11,7 +11,7 @@ An epic is mainly a collection of tasks. The epic issue can contain information 
 If there are visual changes, there should be a high fidelity figma protype. The content in the prototype should be final.
 
 ### Clearly defined tasks
-The tasks should be added to the appropriate repositories, for example [Forus]() and [Me]().
+The [tasks](https://github.com/teamforus/general/blob/develop/manuals/development/issue-task.md) should be added to the appropriate repositories, for example [Forus]() and [Me]().
 
 ### Estimations
 
