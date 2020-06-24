@@ -1,5 +1,6 @@
 # General
 
-Welcome to the general repository of Forus.
+Welcome to the general repository of Forus. 
 
-* [Development manual](https://github.com/teamforus/general/tree/develop/manuals/development)
+* [Design manuals](https://github.com/teamforus/general/tree/develop/manuals/design)
+* [Development manuals](https://github.com/teamforus/general/tree/develop/manuals/development)
