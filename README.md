@@ -8,5 +8,15 @@ Transparency is key. That is why the code, designs and discussions are open and 
 
 ## Getting started
 
+### Design
+* To get started with design, first [read about figma and the pipeline](https://github.com/teamforus/general/blob/develop/manuals/design/pipeline.md)
+* Check out the [styleguide](https://github.com/teamforus/general/blob/master/manuals/design/styleguide.md)
+* Check out some (work in progress) figma files:
+  * Forus [library](https://www.figma.com/file/ArDg3BA8o4uANBLk3ZVzeM/library-dashboard?node-id=1%3A21170) | [prototype](https://www.figma.com/proto/WUqFTERVi1FRn44LyspS8E/%F0%9F%8C%8DForus?node-id=1872%3A143119&viewport=10141%2C23615%2C0.583563506603241&scaling=scale-down-width)
+  * Me app (iOS) [library](https://www.figma.com/file/Dyk8ACF91stjmWmO3rUpXv/Prototype-Me-App-iOS?node-id=77%3A5474) | [prototype](https://www.figma.com/file/Zm9sOaTT8bo7qeYzdtBM3P/Me?node-id=6%3A5)
+  * General [library](https://www.figma.com/file/1fVkS1yBOxYp07jMyJMe3w/library-general?node-id=0%3A1)
+
+### Development
+
 * [Design manuals](https://github.com/teamforus/general/tree/develop/manuals/design)
 * [Development manuals](https://github.com/teamforus/general/tree/develop/manuals/development)
