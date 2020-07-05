@@ -1,8 +1,3 @@
-[![join chat](https://img.shields.io/badge/join%19chat-me-green.svg)](https://chat.forus.io/channel/me)
-
-Maintainer | [@jknnr](https://github.com/jknnr)
---- | ---
-
 # me: an app for managing identity, assets and records  
 
 ## why build me?
@@ -52,17 +47,9 @@ By using the QR code scanner you can:
 | 0.1.0 | Digital identity | The first real-world application of the me app is currently being worked on. It is to be launched together with forus v0.1.0. Initialy the feature set will be focussed on providing the right funcionality to operate together with [kindpakket](). We will use it to learn how the application behaves in the real world, and use these lessons for future development. <br><br> The main focus is to learn how to provide maximum value to real-world users.
 | 1.0.0 | Self sovereign identity | The full vision of the me app is to be a fully self-sovereign identity. Meaning that you own your data and keys, and there is no centralized party involved. Just like with forus this is a vision that required time and dedication
 
-### Digital identity roadmap
-
-| Aim Date | Identification | Wallet | Records |
-| --- | --- | --- | --- |
-| 1 Sept | Can log in to forus | Can have kindpakket voucher | POC: records for kindpakket ZH |
-| 1 Jan |  | Ether in wallet | Validation dashboard for validators |
-| 1 Apr |  | ERC721 support, land plots | p2p validations |
-
 
 ### Self sovereign identity
 To become a self sovereign identity, the technologies being researched are [ethereum](https://ethereum.org), [ipfs](https://ipfs.io). As our roadmap specifies, initially many parts of the me app will be working with centralized systems, build and maintained mainly by Foundation Forus, research is constantly being dong into further decentralisation. 
 
-As much as possible, we are trying to implement open standards that are embraced by the community. e.g. [ERC20](docs/standards/ERC20.md) for tokens, [ERC721](docs/standards/ERC721.md) for assets, [ERC725](docs/standards/ERC725.md) for identity, [ERC735](docs/standards/ERC735.md) for claims. 
+We are looking at implementing open standards. e.g. [ERC20](docs/standards/ERC20.md) for tokens, [ERC721](docs/standards/ERC721.md) for assets, [ERC725](docs/standards/ERC725.md) for identity, [ERC735](docs/standards/ERC735.md) for claims. 
 
