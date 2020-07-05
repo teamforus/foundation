@@ -6,7 +6,7 @@ Forus is a foundation with a social purpose. We believe that technology helps to
 
 Transparency is key. That is why the code, designs and discussions are open and accessible to the public. In addition, we design based on the needs of the end user. For example, we think it is important that an end user has ownership over his own data.
 
-## Useful links
+## Getting started
 
 * [Design manuals](https://github.com/teamforus/general/tree/develop/manuals/design)
 * [Development manuals](https://github.com/teamforus/general/tree/develop/manuals/development)
