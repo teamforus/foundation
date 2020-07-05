@@ -13,12 +13,25 @@ The first step to becoming a contributor is to [join our discord community 💬]
 * To get started with design, first [learn about figma and the pipeline](https://github.com/teamforus/general/blob/develop/manuals/design/pipeline.md)
 * Check out the [styleguide](https://github.com/teamforus/general/blob/master/manuals/design/styleguide.md)
 * Check out some (work in progress) figma files:
-  * Forus [library](https://www.figma.com/file/ArDg3BA8o4uANBLk3ZVzeM/library-dashboard?node-id=1%3A21170) | [prototype](https://www.figma.com/proto/WUqFTERVi1FRn44LyspS8E/%F0%9F%8C%8DForus?node-id=1872%3A143119&viewport=10141%2C23615%2C0.583563506603241&scaling=scale-down-width)
-  * Me app (iOS) [library](https://www.figma.com/file/Dyk8ACF91stjmWmO3rUpXv/Prototype-Me-App-iOS?node-id=77%3A5474) | [prototype](https://www.figma.com/file/Zm9sOaTT8bo7qeYzdtBM3P/Me?node-id=6%3A5)
-  * General [library](https://www.figma.com/file/1fVkS1yBOxYp07jMyJMe3w/library-general?node-id=0%3A1)
-* Ready to get serious? Post in the #design channel in [discord](https://discord.forus.io), and we'll give you view access to all the designs 🎨
+  * Forus: [library](https://www.figma.com/file/ArDg3BA8o4uANBLk3ZVzeM/library-dashboard?node-id=1%3A21170) | [prototype](https://www.figma.com/proto/WUqFTERVi1FRn44LyspS8E/%F0%9F%8C%8DForus?node-id=1872%3A143119&viewport=10141%2C23615%2C0.583563506603241&scaling=scale-down-width)
+  * Me app (iOS): [library](https://www.figma.com/file/Dyk8ACF91stjmWmO3rUpXv/Prototype-Me-App-iOS?node-id=77%3A5474) | [prototype](https://www.figma.com/file/Zm9sOaTT8bo7qeYzdtBM3P/Me?node-id=6%3A5)
+  * General: [library](https://www.figma.com/file/1fVkS1yBOxYp07jMyJMe3w/library-general?node-id=0%3A1)
+* Ready to get serious? Post in the #design channel in [discord](https://discord.forus.io), and we'll give you view access to all of the designs 🎨 Now you can start [cloning](https://github.com/teamforus/general/blob/develop/manuals/design/pipeline.md#cloning-a-file) files and making improvement proposals.
 
 ### Development
+* To get started with development, please read the [development manuals](https://github.com/teamforus/general/tree/develop/manuals/development).
+* Want to learn about our planning? We use [Zenhub](https://www.zenhub.com/). If you have a Github account you can view the backlogs:
+  * [Forus backlog](https://app.zenhub.com/workspaces/public-5e79d635e969e6cdeeebb411/board?repos=120735803): concrete [tasks](https://github.com/teamforus/general/blob/develop/manuals/development/issue-task.md) for [Forus](https://github.com/teamforus/forus)
+  * [Me backlog](https://app.zenhub.com/workspaces/public-5e79d635e969e6cdeeebb411/board?repos=118627146): concrete [tasks](https://github.com/teamforus/general/blob/develop/manuals/development/issue-task.md) for [Me](https://github.com/teamforus/me)
+  * [General backlog](https://app.zenhub.com/workspaces/public-5e79d635e969e6cdeeebb411/board?repos=123948463): More abstract [change requests](https://github.com/teamforus/general/blob/master/manuals/development/issue-change-request.md), [improvement proposals](https://github.com/teamforus/general/blob/develop/manuals/development/issue-improvement-proposal.md), [epics](https://github.com/teamforus/general/blob/develop/manuals/development/issue-epic.md) and general [tasks](https://github.com/teamforus/general/blob/develop/manuals/development/issue-task.md).
 
-* [Design manuals](https://github.com/teamforus/general/tree/develop/manuals/design)
-* [Development manuals](https://github.com/teamforus/general/tree/develop/manuals/development)
+#### Forus
+Forus has a [backend](https://github.com/teamforus/forus-backend) based on [Laravel](https://laravel.com/) and [frontends](https://github.com/teamforus/forus-frontend) based on [AngularJS](https://angularjs.org/). If you are not yet familiar with those technonologies, learning about them would be a great place to start! 💻
+
+If you're ready to start contributing, head over to the [open issues](https://github.com/teamforus/forus/issues). Would you like to open an issue? Please learn [where to open an issue](https://github.com/teamforus/general/blob/master/manuals/development/issues.md#where-to-open-the-issue). Do you have a question? Please post in the #development channel in our [discord 💬](https://discord.forus.io). 
+
+#### Me
+Me has two versions: [Me iOS](https://github.com/teamforus/me-ios) is written in [Swift](https://www.apple.com/swift/) and [Me Android](https://github.com/teamforus/me-android) is written in [Kotlin](https://developer.android.com/kotlin). The apps are talking to the Forus backend API.
+
+If you're ready to start contributing, head over to the [open issues](https://github.com/teamforus/me/issues). Would you like to open an issue? Please learn [where to open an issue](https://github.com/teamforus/general/blob/master/manuals/development/issues.md#where-to-open-the-issue). Do you have a question? Please post in the #development channel in our [discord 💬](https://discord.forus.io). 
+
