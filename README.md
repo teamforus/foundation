@@ -18,7 +18,7 @@ If you have any question, we're glad to help! 🚀
 * Ready to get serious? Post in the #design channel in [discord](https://discord.forus.io), and we'll give you view access to all of the designs 🎨 Now you can start [cloning](https://github.com/teamforus/general/blob/develop/manuals/design/pipeline.md#cloning-a-file) files and making improvement proposals.
 
 ## Development
-* To get started with development, please read the [development manuals](https://github.com/teamforus/general/tree/develop/manuals/development).
+* To get started with development, please read the [development manuals](https://github.com/teamforus/general/tree/develop/manuals/development#development-manuals).
 * Want to learn about the planning planning and priorities? If you have Github, you can view the backlogs on our [Zenhub](https://www.zenhub.com/):
   * [Forus backlog](https://app.zenhub.com/workspaces/public-5e79d635e969e6cdeeebb411/board?repos=120735803): concrete [tasks](https://github.com/teamforus/general/blob/develop/manuals/development/issue-task.md) for [Forus](https://github.com/teamforus/forus)
   * [Me backlog](https://app.zenhub.com/workspaces/public-5e79d635e969e6cdeeebb411/board?repos=118627146): concrete [tasks](https://github.com/teamforus/general/blob/develop/manuals/development/issue-task.md) for [Me](https://github.com/teamforus/me)
