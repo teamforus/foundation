@@ -2,7 +2,7 @@
 
 ## Purpose of this manual.
 
-This manual explains what types of issues there are, when and where to open a certain kind of issue, and how an issue can advance to the next stage and finally be closed.
+This manual explains what types of issues there are, when and where to open different kind of issues, and how an issue can advance to the next stage and finally be closed.
 
 ### Where to open the issue
 In most cases issues can be [opened in the general repository](https://github.com/teamforus/general/issues/new/choose). If you're not sure what type of issue to open, you can always open a [change request](https://github.com/teamforus/general/blob/develop/manuals/development/issue-change-request.md).
