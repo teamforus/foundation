@@ -1,10 +1,10 @@
 # General
 
-## About us
+## Introduction
 
-Forus is a foundation with a social purpose. We believe that technology helps to solve public issues efficiently, lawfully and efficiently. With everything we do, we create value for society. This includes researching, developing openly and helping with implementations of innovative technology.
+Forus is a foundation with a social purpose. We believe that technology helps to solve public issues rightfully, efficiently, and effectively. With everything we do, we create value for society. This includes researching, developing and helping with the implementation of innovative technologies.
 
-Transparency is key. That is why code, designs and discussions are public and accessible to everyone. In addition, we design based on the needs of the end user. For example, we think it is important that an end user has ownership over his own data.
+Transparency is key. That is why the code, designs and discussions are open and accessible to the public. In addition, we design based on the needs of the end user. For example, we think it is important that an end user has ownership over his own data.
 
 ## Useful links
 
