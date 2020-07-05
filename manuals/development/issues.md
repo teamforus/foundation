@@ -2,9 +2,7 @@
 
 ## Purpose of this manual.
 
-Forus and Me are complex products with a growing user base. Making improvements while maintaining and increasing quality is challenging. This manual serves to clearly define a process for making changes to products, services and processes.
-
-Most changes start with an issue. There are a few different kinds of issues. This manual explains what issues there are, when and where to open a certain kind of issue, and how an issue can advance to the next stage and finally be closed.
+This manual explains what types of issues there are, when and where to open different kind of issues, and how an issue can advance to the next stage and finally be closed.
 
 ### Where to open the issue
 In most cases issues can be [opened in the general repository](https://github.com/teamforus/general/issues/new/choose). If you're not sure what type of issue to open, you can always open a [change request](https://github.com/teamforus/general/blob/develop/manuals/development/issue-change-request.md).
