@@ -4,7 +4,7 @@
 
 Forus is a foundation with a social purpose. We believe that technology helps to solve public issues rightfully, efficiently, and effectively. With everything we do, we create value for society. This includes researching, developing and helping with the implementation of innovative technologies.
 
-Transparency is key. That is why the code, designs and discussions are open and accessible to the public. In addition, we design based on the needs of the end user. For example, we think it is important that an end user has ownership over their own data. The foundation works on two products: [Forus](https://github.com/teamforus/forus) and [Me](https://github.com/teamforus/me).
+Transparency is key. That is why the code, designs and discussions are open and accessible to the public. In addition, we design based on the needs of the end user. For example, we think it is important that an end user has ownership over their own data. The foundation works on two products: [Forus](https://github.com/teamforus/forus#introduction) and [Me](https://github.com/teamforus/me#introduction).
 
 ## Getting started
 The first step to becoming a contributor is to [join our discord community](https://discord.forus.io). If you have any question, we're glad to help! 🚀 
