@@ -5,7 +5,8 @@ Forus is a foundation with a social purpose. We believe that technology helps to
 Transparency is a core value for Forus. That is why the code, designs and discussions are open and accessible to the public. In addition, we design based on the needs of the end user. For example, we think it is important that an end user has ownership over their data. The foundation works on two products: [Forus](https://github.com/teamforus/forus#introduction) and [Me](https://github.com/teamforus/me#introduction).
 
 # Getting started
-The first step to becoming a contributor is to [join our discord community 💬](https://discord.forus.io). If you have any question, we're glad to help! 🚀 
+The first step to becoming a contributor is to [join the discord community 💬](https://discord.forus.io).  
+If you have any question, we're glad to help! 🚀 
 
 ## Design
 * To get started with design, first [learn about figma and the pipeline](https://github.com/teamforus/general/blob/develop/manuals/design/pipeline.md)
