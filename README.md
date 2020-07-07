@@ -6,7 +6,7 @@ Transparency is a core value for Forus. That is why code, designs and discussion
 
 # Getting started
 The first step to becoming a contributor is to [join the discord community 💬](https://discord.forus.io).  
-If you have any question, we're glad to help! 🚀 
+If you have any questions, we're glad to help! 🚀 
 
 ## Design
 * To get started with design, first [learn about figma and the pipeline](https://github.com/teamforus/general/blob/develop/manuals/design/pipeline.md#design-manual-pipeline)
