@@ -34,3 +34,6 @@ The goal of archive pages is to perserve ideas, decisions about designs which mi
 
 #### Content
 - The screens of master/review pages from any past iteration. A good practice is to merge alot of archived pages. (To not clutter the file)
+
+## Figma file:
+[File template which you can use to copy](https://www.figma.com/file/sHS5eTHl3S0GEpURdrLRmm/File-template)
