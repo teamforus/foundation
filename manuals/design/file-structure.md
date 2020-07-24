@@ -21,6 +21,13 @@ The goal of a review page is to share and let others check out your work. Its ef
 #### Content
 - Sticky note explaining the change which been made. Should be clear what needs to be reviewed.
 - Screens and relevant specifications. 
+- owner of this page
+
+## ⚽ Play
+A page which is not ready for review. Could include a random idea; its an explorative mess, whatever the designer(s) needs to realize their creative vision.
+
+### Contents
+- This page can contain wireframes and mockups which can be made ready to be reviewed.
 
 ## 🗄️ Archived
 The goal of archive pages is to perserve ideas, decisions about designs which might otherwise not have remained in memory
