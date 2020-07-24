@@ -9,7 +9,7 @@ The goal of the cover is that Figma displays files as a grid of thumbnail images
 - Status -> what phase is it in (define, design, deploy)
 - owner of file
 
-## 🟢 Master
+## ✅ Master
 The goal of the master page is to clearly communicate the source of truth of this specific feature or project at the time of implementation to everyone in the organisation.
 
 #### Contents
