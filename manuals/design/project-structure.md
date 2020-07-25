@@ -8,7 +8,7 @@
 
 <img width="299" alt="Screenshot 2020-07-25 at 19 57 15" src="https://user-images.githubusercontent.com/30194799/88463490-678d4200-ceb3-11ea-99a3-d399f5a63043.png">
 
-3. Click and drag the menu items to be arranged as follows
+3. Click and drag the menu items to be arranged in the following order:
 
 <img width="206" alt="Screenshot 2020-07-25 at 20 16 20" src="https://user-images.githubusercontent.com/30194799/88463583-129dfb80-ceb4-11ea-98c8-0eea31dea2a5.png">
 
