@@ -17,6 +17,7 @@ If you have any questions, we're glad to help! 🚀
 * Check out the [styleguide](https://github.com/teamforus/general/blob/master/manuals/design/styleguide.md)
 * Learn about [file structure](https://github.com/teamforus/general/blob/master/manuals/design/file-structure.md)
 * Ready to get serious? Post in the #design channel in [discord](https://discord.forus.io), and we'll give you view access to all of the designs 🎨 Now you can start [cloning](https://github.com/teamforus/general/blob/develop/manuals/design/pipeline.md#cloning-a-file) files and making improvement proposals.
+  * Have you been added to the team? Learn about the [project structure](https://github.com/teamforus/general/tree/master/manuals/design/project-structure.md) and [file structure](https://github.com/teamforus/general/blob/master/manuals/design/file-structure.md)
 
 ## Development
 * To get started with development, please read the [development manuals](https://github.com/teamforus/general/tree/develop/manuals/development#development-manuals).
