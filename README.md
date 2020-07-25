@@ -15,6 +15,7 @@ If you have any questions, we're glad to help! 🚀
   * General: [library](https://www.figma.com/file/1fVkS1yBOxYp07jMyJMe3w/library-general?node-id=0%3A1)
 * To get started with design, first [learn about figma and the pipeline](https://github.com/teamforus/general/blob/develop/manuals/design/pipeline.md#design-manual-pipeline)
 * Check out the [styleguide](https://github.com/teamforus/general/blob/master/manuals/design/styleguide.md)
+* Learn about [file structure](https://github.com/teamforus/general/blob/master/manuals/design/file-structure.md)
 * Ready to get serious? Post in the #design channel in [discord](https://discord.forus.io), and we'll give you view access to all of the designs 🎨 Now you can start [cloning](https://github.com/teamforus/general/blob/develop/manuals/design/pipeline.md#cloning-a-file) files and making improvement proposals.
 
 ## Development
