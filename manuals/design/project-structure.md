@@ -1,10 +1,8 @@
-## Setting up Figma
-Have you been added to the Forus team in figma? Then now is a great time to set up your favorites.
+## Project structure
 
 1. Click on the team name "Forus" in the left navigation in Figma, you will go to the project overview
 
 <img width="365" alt="Screenshot 2020-07-25 at 19 54 41" src="https://user-images.githubusercontent.com/30194799/88463141-dae18480-ceb0-11ea-94fd-22b3f52e42a7.png">
-
 
 2. Click the little star next to each project
 
