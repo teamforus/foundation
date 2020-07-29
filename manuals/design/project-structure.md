@@ -12,4 +12,6 @@
 
 <img width="206" alt="Screenshot 2020-07-25 at 20 16 20" src="https://user-images.githubusercontent.com/30194799/88463583-129dfb80-ceb4-11ea-98c8-0eea31dea2a5.png">
 
+### [Oke :) let's do it in FIGMA](https://www.figma.com/files/team/751328713147240365/Forus).
+
 
