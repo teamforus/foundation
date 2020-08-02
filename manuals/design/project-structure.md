@@ -1,21 +1,20 @@
 ## Project structure
 
-1. Click on the team name "Forus" in the left navigation in Figma, you will go to the project overview
+**1.** Click on the team name "Forus" in the left navigation in Figma, you will go to the project overview
 
 <img width="365" alt="Screenshot 2020-07-25 at 19 54 41" src="https://user-images.githubusercontent.com/30194799/88463141-dae18480-ceb0-11ea-94fd-22b3f52e42a7.png">
 
 
-2. Click the little star next to each project
+**2.** Click the little star next to each project
 
 <img width="299" alt="Screenshot 2020-07-25 at 19 57 15" src="https://user-images.githubusercontent.com/30194799/88463490-678d4200-ceb3-11ea-99a3-d399f5a63043.png">
 
 
-3. Click and drag the menu items to be arranged in the following order:
+**3.** Click and drag the menu items to be arranged in the following order:
 
 <img width="212" alt="Screenshot 2020-08-02 at 21 50 26" src="https://user-images.githubusercontent.com/30194799/89131057-62ab3c80-d50a-11ea-8c29-255a2d19a262.png">
 
-
-4. Learn more about the pipeline and change lifecycle
+**4.** Learn more about the pipeline and change lifecycle
 
 To go from concept to end-product, an idea starts at the top (Lab or Inbox), and moves down the directories step by step. You can read the directory descriptions on the right side, for more details about the specific stages.
 
