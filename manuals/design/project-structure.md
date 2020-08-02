@@ -10,7 +10,7 @@
 
 3. Click and drag the menu items to be arranged in the following order:
 
-<img width="206" alt="Screenshot 2020-07-25 at 20 16 20" src="https://user-images.githubusercontent.com/30194799/88463583-129dfb80-ceb4-11ea-98c8-0eea31dea2a5.png">
+<img width="212" alt="Screenshot 2020-08-02 at 21 50 26" src="https://user-images.githubusercontent.com/30194799/89131057-62ab3c80-d50a-11ea-8c29-255a2d19a262.png">
 
 ### [Oke :) let's do it in FIGMA](https://www.figma.com/files/team/751328713147240365/Forus).
 
