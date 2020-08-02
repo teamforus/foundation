@@ -14,9 +14,9 @@
 
 <img width="212" alt="Screenshot 2020-08-02 at 21 50 26" src="https://user-images.githubusercontent.com/30194799/89131057-62ab3c80-d50a-11ea-8c29-255a2d19a262.png">
 
-**4.** Learn more about the pipeline and change lifecycle
+**4.** Learn more about the pipeline and change lifecycle by reading the readme's
 
-To go from concept to end-product, an idea starts at the top (Lab or Inbox), and moves down the directories step by step. 
+To go from concept to end-product, an idea starts at the top (Lab or Inbox), and moves down the directories step by step.
 
 Example directory readme (proposals):
 
