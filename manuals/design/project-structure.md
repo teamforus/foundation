@@ -16,7 +16,7 @@
 
 **4.** Learn more about the pipeline and change lifecycle
 
-To go from concept to end-product, an idea starts at the top (Lab or Inbox), and moves down the directories step by step. You can read the directory descriptions on the right side, for more details about the specific stages.
+To go from concept to end-product, an idea starts at the top (Lab or Inbox), and moves down the directories step by step. 
 
 Example directory readme (proposals):
 
