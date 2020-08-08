@@ -12,7 +12,7 @@
 
 **3.** Click and drag the menu items to be arranged in the following order:
 
-<img width="212" alt="Screenshot 2020-08-02 at 21 50 26" src="https://user-images.githubusercontent.com/30194799/89131057-62ab3c80-d50a-11ea-8c29-255a2d19a262.png">
+<img width="202" alt="Screenshot 2020-08-08 at 20 05 53" src="https://user-images.githubusercontent.com/30194799/89717071-24eb5f80-d9b3-11ea-98f2-31b783c9ff98.png">
 
 **4.** Learn more about the pipeline and change lifecycle by reading the directory readme's within Figma
 
