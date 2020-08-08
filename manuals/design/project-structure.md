@@ -22,6 +22,6 @@ Example directory readme (proposals):
 
 <img width="300" alt="Screenshot 2020-08-02 at 22 10 17" src="https://user-images.githubusercontent.com/30194799/89131429-0dbcf580-d50d-11ea-9d96-3e48d9672a19.png">
 
-### [Oke :) let's do it in FIGMA](https://www.figma.com/files/team/751328713147240365/Forus).
+### [Oke :) let's do it in Figma](https://www.figma.com/files/team/751328713147240365/Forus).
 
 
