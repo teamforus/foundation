@@ -9,4 +9,8 @@ The main goal is to find the balance between the lowest file size and an accept
 Some tools can help to make a good quality compression: 
 * [TinyJPG](https://tinyjpg.com/) 
 * [TinyPNG](https://tinypng.com/) 
+
 Or you can find some tool by using Google.
+
+We should also suggest to our users to upload images in a good quality.
+
