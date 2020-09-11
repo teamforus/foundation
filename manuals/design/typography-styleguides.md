@@ -6,7 +6,7 @@ Content is placed in the areas of the screen that contain columns. We also shoul
 
 Minimum space between an image and text without a title is **21px**. Minimum space between an image and text blocks with titles is **35px**.
 
-All text should have a **line-height 1.5**, it means that if your font size a 16pt your line height is 24pt.
+All text should have a **line-height 1.5**, it means that if your font size is a 16pt your line height is 24pt.
 
 # Measurement from the baseline
 
