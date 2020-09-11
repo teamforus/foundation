@@ -10,5 +10,5 @@ All text should have a line-height </b>1.5x</b> it means that if your font size 
 
 ## Measurement from the baseline
 
-Specify distances from UI elements from the baseline. They worked with a grid. Please follow these rules to create more accurate design and implementations across. all platforms
+Specify distances from UI elements from the baseline. They worked with a grid. Please follow these rules to create more accurate design and implementations across all platforms
 ￼
