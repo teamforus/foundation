@@ -6,3 +6,4 @@ The goal of this manual is to set out guidelines for design style and processes.
 * [Project structure](https://github.com/teamforus/general/tree/master/manuals/design/project-structure.md)
 * [File structure](https://github.com/teamforus/general/blob/master/manuals/design/file-structure.md)
 * [Styleguide](https://github.com/teamforus/general/tree/master/manuals/design/styleguide.md)
+* [Typography Styleguide](https://github.com/teamforus/general/tree/master/manuals/design/typography-styleguides.md)
