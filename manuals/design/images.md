@@ -1,4 +1,4 @@
-# Guidlines for images 
+# Guidelines for images 
 
 
 All images should be in a good quality. First tip is </b>to upload an image in a 2x size.</b> 
