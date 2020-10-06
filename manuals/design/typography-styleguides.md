@@ -12,9 +12,9 @@ All text should have a **line-height 1.5**, it means that if your font size is a
 
 Specify distances from UI elements from the baseline. They worked with a grid. Please follow these rules to create more accurate design and implementations across all platforms.
 
-![grid system](https://raw.githubusercontent.com/teamforus/general/typography-styleguides/manuals/design/typography-styleguides-images/Grid%20system.png)
+![grid system](./typography-styleguides-images/Grid%20system.png)
 
-![text system](https://raw.githubusercontent.com/teamforus/general/typography-styleguides/manuals/design/typography-styleguides-images/Text%20guides.jpg)
+![text system](./typography-styleguides-images/Text%20guides.jpg)
 
 All page headers should be the same.
 
@@ -24,11 +24,11 @@ Use a different text blocks for a different text styles.
 
 *WRONG*
 
-![wrong usage](https://raw.githubusercontent.com/teamforus/general/typography-styleguides/manuals/design/typography-styleguides-images/Wrong%20using.png)
+![wrong usage](./typography-styleguides-images/Wrong%20using.png)
 
 *RIGHT*
 
-![proper usage](https://raw.githubusercontent.com/teamforus/general/typography-styleguides/manuals/design/typography-styleguides-images/Right.png)
+![proper usage](./typography-styleguides-images/Right.png)
 
 # Customization of links 
 
