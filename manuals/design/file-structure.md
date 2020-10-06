@@ -6,7 +6,7 @@ The goal of the cover is that Figma displays files as a grid of thumbnail images
 #### Contents
 - Name of the IP (should be the same as the one on Github)
 - A link to Github issue and github issue number 
-- Status -> what phase is it in (define, design, deploy)
+- Priority -> Must-have, Should-have, Could-have or Won't-have
 - owner of file
 
 ## ✅ Master

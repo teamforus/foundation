@@ -1,6 +1,7 @@
 ## Development manuals
+These manuals are incomplete and under construction 🏗 
 
-Forus develops and maintains multiple products. These are the manuals for development
+Do you have a question? Please ask it in the #development channel in the [discord community 💬](https://discord.forus.io)
 
 Topics:
 * [Issues](https://github.com/teamforus/general/blob/develop/manuals/development/issues.md)
