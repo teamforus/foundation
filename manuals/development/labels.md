@@ -31,6 +31,7 @@ label | color |  description
 -- | -- | --
 Status: Planned | Color: # | Added to planning
 Status: Not Planned | Color: # | Not planned to be worked on
+Status: Question | Color: #0e616b | The issue is blocked by one or more questions
 Status: In progress | Color: # | Is currently being worked on
 Status: On hold | Color: # | Decision made to pause work
 Status: Blocked | Color: # | Can not be worked on
