@@ -14,7 +14,7 @@ A good improvement proposal clearly describes the:
 * Desired situation
 * Plan
 
-The goal of the improvement proposal is to itterate on these three points until the plan is clear and can be approved for implementation. The comment area on the issue and/or in the google doc can be used to discuss proposals and options.
+The goal of the improvement proposal is to itterate on these points until the plan is clear and can be approved for implementation. The comment area on the issue and/or in the google doc can be used to discuss proposals and options.
 
 ### Context
 Explain why this improvement proposal exists. For example link to related change request(s).
