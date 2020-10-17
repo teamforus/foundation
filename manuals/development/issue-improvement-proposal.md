@@ -9,11 +9,15 @@ Depending on the topics in the improvement proposal, it can be made in two ways:
 ##  What makes a good improvement proposal?
 A good improvement proposal clearly describes the:
 
+* Context
 * Current situation
 * Desired situation
 * Plan
 
 The goal of the improvement proposal is to itterate on these three points until the plan is clear and can be approved for implementation. The comment area on the issue and/or in the google doc can be used to discuss proposals and options.
+
+### Context
+Explain why this improvement proposal exists. For example link to related change request(s).
 
 ### Current situation
 Clearly explain the current situation in order to facilitate an effective discussion and enable optimal decision making. This can start simple but if during discussions it becomes clear that the understanding of the current situation is not good enough, this explanation should be improved. If there is a visual change, adding screenshots can help.
