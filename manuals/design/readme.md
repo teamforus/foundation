@@ -9,5 +9,5 @@ The goal of this manual is to set out guidelines for design style and processes.
 * [Guidline for Images](./images.md)
 * [Fonts](./styleguide.md)
 * [Typography and Metrics](./typography-styleguides.md)
-* [Text and Communication] (./text_and_communication.md)
+* [Text and Communication](./text_and_communication.md)
 * [Images](./images.md)
