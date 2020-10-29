@@ -11,19 +11,10 @@ Figma can be used in any modern browser. If you're a power-user it is recomended
 Figma has great [documentation and tutorials](https://help.figma.com/hc/en-us) available for free.
 
 ## File locations
-If you are part of the Forus team, you will have acces to these projects. If you are not part of the team, understanding these projects will still help you understand how our workflow is structured. Watch the [figma structure video](https://youtu.be/XR7DBatobQM) and/or the table below:
+If you are part of the Forus team, you will have acces to project folders. If you are not part of the team, understanding these projects will still help you understand how our workflow is structured. Watch the [figma structure video](https://youtu.be/XR7DBatobQM) for an introduction to projects, and [follow this manual](https://github.com/teamforus/general/blob/develop/manuals/design/project-structure.md) to set up the full structure.
 
-Directory | Purpose
--- | --
-Drafts | Your personal space. Only you see what is in here. You can choose to share a file using the "share" menu.
-Inbox | Any (new) file can go here. If you're not sure where to put something, put it in the inbox.
-General | Most other directories are meant for our products. The general directory is meant for all other files.
-Proposals | Suggestions for improvements. Can be connected to an [improvement proposal](https://github.com/teamforus/general/blob/develop/manuals/development/issue-improvement-proposal.md) issue. 
-Prototypes | Accepted proposals. Needs design and content. Can be linked to an [epic](https://github.com/teamforus/general/blob/develop/manuals/development/issue-epic.md) issue.
-Pull requests | Final designs, handed off to developers. Should be merged into the library. Can be moved to the archive when merged into the library and deployments. Can be linked to one or more [task](https://github.com/teamforus/general/blob/develop/manuals/development/issue-task.md) issues 
-Libraries | Design sources. Does not contain data. The library is organized based on the principles of [atomic design](https://github.com/teamforus/general/blob/develop/manuals/design/pipeline.md#library-structure-atomic-design). The library contains templates for the pages that are used in the deployments. 
-Deployments | Here the templates are combined into a prototype that closely resembles the product currently in production and is filled with content. The deployements can be used for collecting feedback, taking screenshots, making training materials etc.
-Archive | Move any files here that are not actively worked on, but should not be deleted.
+## Pages
+Within every file there are different pages, with different meanings. Learn about suggested page naming by [reading this manual](https://github.com/teamforus/general/blob/develop/manuals/design/file-structure.md).
 
 ## Core concepts
 
