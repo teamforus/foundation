@@ -28,15 +28,15 @@ The higher on the backlog the issue is, the more important it is. When in doubt,
 ## Priority desision making
 Some questions might help you make a desision about priority within a one tier of the moscow priorities. For example; two issues are both “should-have” - which one is more important than the other? 
 
-Does this remove or simply broken or unused functionality?
+1. Does this remove or simply broken or unused functionality?
 
-Functionality that is currently built but that is not used or understood should probably be removed. 2 checks should be done: is there a risk for current users if this is removed (support) or are there plans to implement this functionality (implementation? then this functionally can not be removed or a better plan needs to be made. If both departments agree with the removal. It can proceed.
+Functionality that is currently built but that is not used or understood should probably be removed. 2 checks should be done: is there a risk for current users if this is removed (support) or are there plans to implement this functionality (implementation? then this functionally can not be removed or a better plan needs to be made. If both departments agree with the removal. It is most desirable.
 
-Does this improve existing functionality? 
+2. Does this improve existing functionality? 
 
 If there is functionality that is currently being used but where this issue can improve this functionality for existing users, this is a very desirable change.
 
-Does this introduce useful new functionality?
+3. Does this introduce useful new functionality?
 
 Introducting new functionality should be done, if it is certain that this will be useful for existing users. This should be done carefully in order to make sure that this does not increase complexity, but instead creates a simpler, more powerful and more useful product for our users. 
 
