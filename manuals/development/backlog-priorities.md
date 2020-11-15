@@ -39,7 +39,7 @@ Functionality that is currently built but that is not used or understood should 
 If there is functionality that is currently being used but where this issue can improve this functionality for existing users, this is a very desirable change.
 
 ### ✨ Does this introduce useful new functionality?
-#### ⭐⭐⭐⭐
+#### ⭐⭐⭐
 
 Introducting new functionality should only be done if it is certain that this will be useful for existing users. It should be done carefully in order to make sure that this does not increase complexity, but instead creates a simpler, more powerful, elegant and useful product for our users. 
 
