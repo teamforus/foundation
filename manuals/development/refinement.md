@@ -38,5 +38,5 @@ If there is functionality that is currently being used but where this issue can 
 
 3. Does this introduce useful new functionality?
 
-Introducting new functionality should be done, if it is certain that this will be useful for existing users. This should be done carefully in order to make sure that this does not increase complexity, but instead creates a simpler, more powerful and more useful product for our users. 
+Introducting new functionality should only be done if it is certain that this will be useful for existing users. It should be done carefully in order to make sure that this does not increase complexity, but instead creates a simpler, more powerful, elegant and useful product for our users. 
 
