@@ -4,7 +4,7 @@
 The first level of indexing the priority of an issue is by using MoSCoW rules. This is done directly while creating the issue or before moving it to the backlog. The label is also meant to inspire discussion, new insigts might lead to changing the label. Don’t be afraid to assign a label. If people disagree, it can be discussed.
 
 ## Must have
-It needs to be done, no matter what. For example because it’s a hard, agreed upon, commitment in an (internal) project. Or because it needs to be done to avoid incidents or reputation damage.
+It needs to be done, no matter what. For example because it’s a hard, agreed upon, commitment in an (internal) project. Or because it needs to be done to avoid incidents or reputation/trust damage.
 
 *Must have issues should be fixed as urgently as possible. 🚀*
 
