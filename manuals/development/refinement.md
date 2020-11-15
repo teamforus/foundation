@@ -30,7 +30,7 @@ Some questions might help you make a desision about priority within a one tier o
 
 1. Does this remove or simply broken or unused functionality?
 
-Functionality that is currently built but that is not used or understood should probably be removed. 2 checks should be done: is there a risk for current users if this is removed (support) or are there plans to implement this functionality (implementation? then this functionally can not be removed or a better plan needs to be made. If both departments agree with the removal. It is most desirable.
+Functionality that is currently built but that is not used or understood should probably be removed. 2 checks should be done: is there a risk for current users if this is removed (support) or are there plans to implement this functionality (implementation? then this functionally can not be removed or a better plan needs to be made. If both departments agree with the removal. It is most desirable. Less is more.
 
 2. Does this improve existing functionality? 
 
