@@ -1,4 +1,4 @@
-# Backlog refinement:
+# Backlog priorities:
 
 # Initial priority: MoSCoW labels
 The first level of indexing the priority of an issue is by using MoSCoW rules. This is done directly while creating the issue or before moving it to the backlog. The label is also meant to inspire discussion, new insigts might lead to changing the label. Don’t be afraid to assign a label. If people disagree, it can be discussed.
@@ -19,7 +19,7 @@ It’s not certain that there will be a highly positive impact, but it might sti
 ## Won't have
 Is not desirable or feasible at this time. This often means the issue will be closed or iceboxed.
 
-# Prioritising within the zenhub backlog.
+# Prioritising within the (zenhub) backlog.
 After using the labels to assign an priority, a more refined priority will be specified by placing the issue in the backlog. 
 
 ## Finding the right place on the backlog
