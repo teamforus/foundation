@@ -1,4 +1,4 @@
-# Typography style-guides
+# Column grid
 
 For being confident with layouts at our design and creating a most likely a pixel-perfect prototypes we’re using a **4px grid system**.
 
