@@ -10,3 +10,4 @@ The goal of this manual is to set out guidelines for design style and processes.
 * [Fonts](./styleguide.md)
 * [Typography and Metrics](./typography-styleguides.md)
 * [Images](./images.md)
+* [Customisation of new webshops](./Customisation_of_new_webshops.md)
