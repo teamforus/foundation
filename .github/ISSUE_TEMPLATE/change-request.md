@@ -1,7 +1,7 @@
 ---
 name: Change request
 about: Template for requesting a change
-labels: 'Approval: Not requested, Status: Not Planned, Type: Change request'
+labels: 'Approval: Not requested, Status: Not Planned'
 assignees: maxvisser
 
 ---
